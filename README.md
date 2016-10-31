@@ -18,7 +18,7 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 1. [Edit the article metadata](_data/article.yml)
 1. Add [data](data) and [figures](_figures) by [uploading files to GitHub](https://help.github.com/articles/adding-a-file-to-a-repository/).
 1. [Edit each section](_sections)
-1. [View your article](https://peerj.github.io/paper-now/) in GitHub Pages at https://{username}.github.io/paper-now
+1. [View your article](https://euleralves.github.io/paper-now/) in GitHub Pages at https://{username}.github.io/paper-now
 
 ## Notes
 
