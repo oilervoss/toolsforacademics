@@ -7,7 +7,7 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 
 ## Instructions
 
-1. Clone [PaperNow repository](https://github.com/PeerJ/paper-now) or your [Own repository](https://euleralves.github.io/paper-now/) repository to your own account, by visiting [GitHub's importer](https://import.github.com/new/?import_url=https://github.com/peerj/paper-now/).
+1. Clone [PaperNow repository](https://github.com/PeerJ/paper-now) or your [Own repository](https://oilervoss.github.io/paper-now/) repository to your own account, by visiting [GitHub's importer](https://import.github.com/new/?import_url=https://github.com/peerj/paper-now/).
 1. Change `baseurl` setting in [_config.yml](_config.yml) to match. 
 1. [Edit the article metadata](_data/article.yml)
 1. Add [data](data) and [figures](_figures) by [uploading files to GitHub](https://help.github.com/articles/adding-a-file-to-a-repository/).
