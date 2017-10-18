@@ -10,14 +10,9 @@ authors:
   - &euler-alves
     id: "euler-alves"
     name: "Euler Timoteo Alves"
-    email: "webmaster(a)alves(dot)pro(dot)br"
+    email: "2017(a)alves(dot)pro(dot)br"
     url: https://alves.pro.br
     orcid: "0000-0002-6059-4555"
-
-#  - &bob-exemplar
-#    id: "bob-exemplar"
-#    name: "Bob Exemplar"
-#    orcid: "0000-0002-9341-7985"
 
 affiliations:
   - name: "Fundação Pedro Leopoldo"
@@ -26,6 +21,10 @@ affiliations:
     url: http://www.fpl.edu.br/
     members:
       - *euler-alves
+      - &ester
+        id: "ester"
+        name: "Ester Jeunon"
+        orcid: "0000-0002-5158-0151"
 
 #  - name: "Harvard University"
 #    department: "Department of Molecular and Cellular Biology"
