@@ -14,17 +14,17 @@ authors:
     url: https://alves.pro.br
     orcid: "0000-0002-6059-4555"
 
-affiliations:
-  - name: "Fundação Pedro Leopoldo"
-    department: "Mestrado Profissional em Administração"
-    location: "Pedro Leopoldo, MG, Brazil"
-    url: http://www.fpl.edu.br/
-    members:
-      - *euler-alves
-      - &ester
-        id: "ester"
-        name: "Ester Jeunon"
-        orcid: "0000-0002-5158-0151"
+  affiliations:
+    - name: "Fundação Pedro Leopoldo"
+      department: "Mestrado Profissional em Administração"
+      location: "Pedro Leopoldo, MG, Brazil"
+      url: http://www.fpl.edu.br/
+      members:
+        - *euler-alves
+        - &ester
+          id: "ester"
+          name: "Ester Jeunon"
+          orcid: "0000-0002-5158-0151"
 
 #  - name: "Harvard University"
 #    department: "Department of Molecular and Cellular Biology"

@@ -4,7 +4,7 @@ order: 1
 label: Exemplo 1
 title: "Tabela de exemplo"
 description: "Uma tabela de dados convertida para o formato CSV"
-image: ""
+source: ../data/cell-culture/culture.csv
 ---
 <table class="table table-bordered">
 <thead>
