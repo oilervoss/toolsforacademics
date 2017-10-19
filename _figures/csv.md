@@ -6,14 +6,20 @@ title: "Tabela de exemplo"
 description: "Uma tabela de dados convertida para o formato CSV"
 image: ""
 ---
+<table class="table table-bordered">
+<thead>
+    <tr>
+    <th>Heading 1</th>
+    <th>Heading 2</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+    <td>Data point 1</td>
+    <td>Data point 2</td>
+    </tr>
+</tbody>
+</table>
 
-Nome|Cidade|UF
-----|------|----
-Abcd|bakkd|DD
-ABDK|jdfj|DD
-adfwsdf  |asfadf   |asfas
-
->Nome,Cidade,UF
->Abcd,asfkjjaf,DD
->adfkdj,asfjkf,DD
->kdafkj,dkfjd,djfk  
+Heading 1,Heading 2
+Data point 1,Data point 2
