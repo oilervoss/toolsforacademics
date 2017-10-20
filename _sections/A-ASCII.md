@@ -2,7 +2,9 @@
 title: Apêndice A - Tabela ASCII
 order: 6
 ---
-## Caracteres de controles
+
+### Caracteres de controles
+
 Nº|Símbolo|Descrição
 :---:|:---:|:---
 00|NULL|Null character
@@ -39,8 +41,8 @@ Nº|Símbolo|Descrição
 31|US|Unit separator
 127|DEL|Delete
 
+### Caracteres imprimíveis
 
-## Caracteres imprimíveis
 Nº|Caracter
 :---:|:---:
 32|*espaço*
@@ -138,7 +140,8 @@ Nº|Caracter
 125|}
 126|~
 
-## ASCII Extendido
+### ASCII Extendido
+
 Nº|Caracter
 :---:|:---:
 128|Ç
