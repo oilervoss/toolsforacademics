@@ -21,5 +21,24 @@ source: ../data/cell-culture/culture.csv
 </tbody>
 </table>
 
-Heading 1,Heading 2
-Data point 1,Data point 2
+----
+
+Heading 1|Heading 2
+----|----
+Data point 1|Data point 2
+
+---
+
+<table class="table table-bordered">
+<thead>
+    <tr>
+    <th>Arquivo CSV</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+    <td><p>Heading 1,Heading 2</p><p>Data point 1,Data point 2</p>
+    </td>
+    </tr>
+</tbody>
+</table>
