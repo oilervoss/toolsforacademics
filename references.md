@@ -1,3 +1,5 @@
+Gruber, J. (2004) [Markdown](https://daringfireball.net/projects/markdown/).
+
 * Booth, W. C. (2003). [The craft of research](https://doi.org/10.1016/j.laa.2006.10.019)
 * Dube, L., & Adjei, E. (2016). [Digital preservation](https://doi.org/10.1016/B978-1-84334-777-4.00004-9)
 * Hazemi, R., Hailes, S., & Wilbur, S. (1998). [Supporting asynchronous collaboration in academia](https://doi.org/10.1007/978-1-4471-0625-8_14)
